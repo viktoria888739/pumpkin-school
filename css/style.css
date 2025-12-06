@@ -4,5 +4,11 @@
 @import url('animations.css');
 
 body{
-    font-family: '', sans-serif;
+    font-family: 'Kintsugi', sans-serif;
+}
+.meow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 150;
 }
