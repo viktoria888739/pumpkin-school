@@ -1,5 +1,10 @@
 @font-face {
-    font-family: 'Kintsugi';
-    src: url('../assets/fonts/Kintsugi_LVRG-Regular.otf');
+    font-family: 'CSTM';
+    src: url('../assets/fonts/CSTMXPRMNTL01-Regular.ttf');
+    font-weight: 80;
+}
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('../assets/fonts/EBGaramond-ExtraBold.ttf');
     font-weight: 100;
 }
